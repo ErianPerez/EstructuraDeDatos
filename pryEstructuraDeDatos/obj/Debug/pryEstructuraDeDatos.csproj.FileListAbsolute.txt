@@ -1,0 +1,76 @@
+D:\Escritorio\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe.config
+D:\Escritorio\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe
+D:\Escritorio\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.pdb
+D:\Escritorio\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.AssemblyReference.cache
+D:\Escritorio\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm00Principal.resources
+D:\Escritorio\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.Properties.Resources.resources
+D:\Escritorio\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.GenerateResource.cache
+D:\Escritorio\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.exe
+D:\Escritorio\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.pdb
+D:\Escritorio\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm01AcercaDe.resources
+D:\Escritorio\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm02Cola.resources
+C:\Users\erian perez\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe.config
+C:\Users\erian perez\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe
+C:\Users\erian perez\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.pdb
+C:\Users\erian perez\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.AssemblyReference.cache
+C:\Users\erian perez\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\erian perez\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm00Principal.resources
+C:\Users\erian perez\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm01AcercaDe.resources
+C:\Users\erian perez\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm02Cola.resources
+C:\Users\erian perez\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.Properties.Resources.resources
+C:\Users\erian perez\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.GenerateResource.cache
+C:\Users\erian perez\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\erian perez\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.exe
+C:\Users\erian perez\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.pdb
+C:\Users\erian perez\Desktop\Coding\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.AssemblyReference.cache
+C:\Users\erian perez\Desktop\Coding\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\erian perez\Desktop\Coding\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm00Principal.resources
+C:\Users\erian perez\Desktop\Coding\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm01AcercaDe.resources
+C:\Users\erian perez\Desktop\Coding\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm02Cola.resources
+C:\Users\erian perez\Desktop\Coding\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.Properties.Resources.resources
+C:\Users\erian perez\Desktop\Coding\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.GenerateResource.cache
+C:\Users\erian perez\Desktop\Coding\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\erian perez\Desktop\Coding\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.exe
+C:\Users\erian perez\Desktop\Coding\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.pdb
+C:\Users\erian perez\Desktop\Coding\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe.config
+C:\Users\erian perez\Desktop\Coding\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe
+C:\Users\erian perez\Desktop\Coding\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.pdb
+C:\Users\erian perez\Desktop\Coding\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm03Pila.resources
+D:\Escritorio\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm03Pila.resources
+C:\Users\Usuario\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe.config
+C:\Users\Usuario\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe
+C:\Users\Usuario\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.pdb
+C:\Users\Usuario\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm00Principal.resources
+C:\Users\Usuario\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm01AcercaDe.resources
+C:\Users\Usuario\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm02Cola.resources
+C:\Users\Usuario\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm03Pila.resources
+C:\Users\Usuario\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.exe
+C:\Users\Usuario\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.pdb
+C:\Users\erian perez\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm03Pila.resources
+C:\Users\erian perez\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm04ListaSimple.resources
+C:\Users\Usuario\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm04ListaSimple.resources
+C:\Users\Usuario\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm05ListaDLigada.resources
+C:\Users\Usuario\Desktop\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm06ArbolBinario.resources
+E:\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe.config
+E:\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe
+E:\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.pdb
+E:\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.AssemblyReference.cache
+E:\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.SuggestedBindingRedirects.cache
+E:\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm00Principal.resources
+E:\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm01AcercaDe.resources
+E:\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm02Cola.resources
+E:\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm03Pila.resources
+E:\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm04ListaSimple.resources
+E:\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm05ListaDLigada.resources
+E:\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frm06ArbolBinario.resources
+E:\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.Properties.Resources.resources
+E:\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.GenerateResource.cache
+E:\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.CoreCompileInputs.cache
+E:\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.exe
+E:\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.pdb
